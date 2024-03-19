@@ -1,1 +1,1 @@
-# C-Holiday-Offers-and-Booking-System
+# C++ Holiday-Offers-and-Booking-System
